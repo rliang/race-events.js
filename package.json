@@ -1,0 +1,30 @@
+{
+  "name": "race-events",
+  "version": "1.0.0",
+  "description": "Race event emissions from a set of emitters and events.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rliang/race-events.js.git"
+  },
+  "keywords": [
+    "event-emitter",
+    "event",
+    "promise",
+    "await",
+    "race"
+  ],
+  "author": "Ricardo Liang (ricardoliang@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rliang/race-events.js/issues"
+  },
+  "homepage": "https://github.com/rliang/race-events.js#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
